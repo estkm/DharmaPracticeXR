@@ -1,0 +1,6 @@
+{
+  "name": "Om Mani Prayer Wheel",
+  "description": "Interactive Tibetan Om Mani Padme Hum prayer wheel with wrist rotation physics, accelerometer and gyroscope tracking, haptic feedback, and daily mantra progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
